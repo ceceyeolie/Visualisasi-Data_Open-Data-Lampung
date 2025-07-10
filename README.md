@@ -22,6 +22,14 @@ Tujuan utama dari proyek ini adalah untuk memberikan panduan praktis bagi operat
 - 🔗 [Tampilan Visual di Website Open Data](https://opendata.lampungprov.go.id/dataset/skor-indeks-daya-saing-daerah-kabupatenkota-seprovinsi-lampung)
 - 📊 [Visualisasi Interaktif Tableau Public](https://public.tableau.com/views/IDSDTERBARU2024LAMPUNG/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+  ## Bahan Tutorial & Sumber Daya Pendukung
+Folder berikut berisi seluruh materi pelatihan terpadu yang disusun untuk mendukung replikasi visualisasi oleh dinas/instansi lain:
+- 📁 **Dokumen Panduan PDF (Buku Tutorial Tableau)**
+- 🎥 **Video Tutorial Penggunaan Tableau**
+- 📊 **Data Mentah dan File Pendukung Visualisasi**
+
+👉 **[Akses Folder Google Drive](https://drive.google.com/drive/folders/12gMb3xVp_BVbIU-tv32mVpzMcq30wbPp?usp=sharing)**
+
 ## Hak Cipta dan Lisensi
 Visualisasi dan data ini merupakan bagian dari program keterbukaan data Pemerintah Provinsi Lampung. Data bersumber dari Dinas Kominfotik Provinsi Lampung dan dapat digunakan sesuai ketentuan lisensi data terbuka.
 
